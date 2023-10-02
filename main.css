@@ -1,0 +1,28 @@
+:root {
+    /* Primary Colors */
+    --lt-red: hsl(0 100% 67%)
+    --orange-yellow: hsl(39 100% 56%)
+    --green-teal: hsl(166 100% 37%)
+    --cobalt-blue: hsl(234 85% 45%)
+
+    /* Neutral Colors */
+    --clr-wht: hsl(0 0% 100%)
+    --pale-blue: hsl(221 100% 96%)
+    --lt-laven: hsl(241 100% 89%)
+    --dkgray-blue: hsl(224 30% 27%)
+    
+    /* Gradient Colors */
+    --lt-slate-blue: hsl(252 100% 67%)
+    --lt-royal-blue: hsl(241 81% 54%)
+    --vio-blue: hsla(256 72% 46% 1)
+    --pers-blue: hsla(241 72% 46% 0)
+
+    /* Typography */
+    --fs: 18px
+    --fw-1: 500
+    --fw-2: 700
+    --fw-3: 800
+
+
+    font-size: var(--fs)
+}

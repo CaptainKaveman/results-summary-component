@@ -19,9 +19,9 @@
 
     /* Typography */
     --fs: 18px
-    --fw-1: 500
-    --fw-2: 700
-    --fw-3: 800
+    --fw-n: 500
+    --fw-b: 700
+    --fw-xb: 800
 
 
     font-size: var(--fs)
